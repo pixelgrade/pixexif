@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PixEXIF\n"
+"POT-Creation-Date: 2015-07-07 16:45+0200\n"
+"PO-Revision-Date: 2015-07-07 16:45+0200\n"
+"Last-Translator: Vlad Olaru <vlad.olaru@pixelgrade.com>\n"
+"Language-Team: PixelGrade <contact@pixelgrade.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n_noop:1,2;_xn;_ex;_nx_noop:1,2;"
+"translate_nooped_plural;_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-pixexif.php:57
+msgid "Camera"
+msgstr ""
+
+#: ../class-pixexif.php:58
+msgid "Camera model."
+msgstr ""
+
+#: ../class-pixexif.php:61
+msgid "Aperture"
+msgstr ""
+
+#: ../class-pixexif.php:62
+msgid "The aperture f-stop (only the number, without f/)."
+msgstr ""
+
+#: ../class-pixexif.php:65
+msgid "Focal Length"
+msgstr ""
+
+#: ../class-pixexif.php:66
+msgid "The focal length that the image was shot with (in mm)."
+msgstr ""
+
+#: ../class-pixexif.php:69
+msgid "Shutter Speed"
+msgstr ""
+
+#: ../class-pixexif.php:70
+msgid "The exposure time in fractional format (ie. 1/100)."
+msgstr ""
+
+#: ../class-pixexif.php:73
+msgid "ISO"
+msgstr ""
+
+#: ../class-pixexif.php:74
+msgid "The ISO speed."
+msgstr ""
